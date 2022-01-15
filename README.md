@@ -1,5 +1,5 @@
 ## Hi, me llamo Marilyn 👋
-#### :speech_balloon: Me encanta descubrir cosas nuevas, desde paises, culturas, tecnologia, problematicas etc. donde pongo a prueba mi capacidad de empatia, no buscando responsables, si no varias opciones para afrontar cada situacion. 
+#### :speech_balloon: Me encanta descubrir nuevas cosas, desde paises, culturas, tecnologia, problematicas etc. donde pongo a prueba mi capacidad de empatia, no buscando responsables, si no varias opciones para afrontar cada situacion. 
 :bulb: Lo magico de la web, es que te permite informarte de diferentes campos en el mundo.
 
  ✨***Los grandes viajes empiezan con pequeños pasos***✨ 

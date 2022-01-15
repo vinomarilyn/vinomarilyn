@@ -15,7 +15,7 @@
 - Instagram: https://www.instagram.com/marilynvinodev/
 
 
-![img](https://user-images.githubusercontent.com/90283537/149625954-a259cdfb-5f4f-4895-b4c5-71404c4ec903.png)
+![img](https://user-images.githubusercontent.com/90283537/149626393-3905a9fc-04f5-4d39-ada5-7f859dd1ff0c.png)
 
  
  ### :computer: :mag_right:Tecnologias de interes:

@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi 👋
+#### Me encanta descubrir cosas nuevas, desde paises, culturas, tecnologia, problematicas etc. donde pongo a prueba mi capacidad de empatia, no buscando responsables, si no varias opciones para afrontar cada situacion. 
+Lo magico de la web, es que te permite informarte de diferentes campos en el mundo.
 
-<!--
-**vinomarilyn/vinomarilyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨***Los grandes viajes empiezan con pequeños pasos***✨ 
 
-Here are some ideas to get you started:
+ ### Mis conocimientos actuales en proceso de aprendizaje:
+ - Javascript
+ - Node.js
+ - Css
+ - Html
+ 
+ ### Tecnologias de interes:
+ - React VR (web VR).
+ #### Me fascina la idea de dar una experiencia completamente envolvente a los usuarios, para que puedan descubrir hasta donde llega la tecnologia y sus nuevos desarrollos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contactos:
+- Linkedin: www.linkedin.com/in/marilyn-vino
+- Instagram: https://www.instagram.com/marilynvinodev/

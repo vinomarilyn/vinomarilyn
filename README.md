@@ -12,7 +12,7 @@
  
 ### :mailbox: Contactos:
 - Linkedin: www.linkedin.com/in/marilyn-vino
-- Instagram: https://www.instagram.com/marilynvinodev/
+- Instagram: https://www.instagram.com/mariv404/
 
 
 ![img](https://user-images.githubusercontent.com/90283537/149626393-3905a9fc-04f5-4d39-ada5-7f859dd1ff0c.png)
